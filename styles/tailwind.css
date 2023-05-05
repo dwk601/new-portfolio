@@ -1,3 +1,16 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+body {
+    color: black;
+}
+
+.my-text-class {
+    color: black;
+}
+
+
+.my-background-class {
+    background-color: aqua;
+}
